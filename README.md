@@ -1,4 +1,3 @@
-# CipherSchools-Project
 # Insights Report
 
 ## Introduction
